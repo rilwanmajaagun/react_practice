@@ -1,0 +1,12 @@
+.read{
+    /* display: none; */
+}
+.not_read{
+    /* display: none; */
+    text-decoration: overline;
+    color: none;
+
+}
+.not_read > button{
+    color: blue;
+}
